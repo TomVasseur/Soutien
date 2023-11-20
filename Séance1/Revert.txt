@@ -1,0 +1,10 @@
+Ecrivez une fonction qui lorsqu'on lui donne une lettre minuscule renvoie la
+même lettre en majuscule et vice versa.
+
+Prototype:
+
+public static char Revert(char c);
+
+Exemple: Revert('k') // 'K'
+	 Revert('Q') // 'q'
+	 Revert('!') // '!'

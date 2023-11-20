@@ -1,0 +1,10 @@
+Ecrire une fonction qui crée dans une string avec tous les mots commençant par le
+caractère 's' dans le fichier donné en argument.
+
+Prototype:
+
+public static Sanglier(string path);
+
+Exemple:
+string s = Sanglier(test.txt); // s == sanglier
+
