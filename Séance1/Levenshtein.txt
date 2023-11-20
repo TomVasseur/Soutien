@@ -1,0 +1,15 @@
+Pour ce premier exercice vous allez devoir écrire une fonction qui renvoie la
+distance de Levenshtein entre deux mots.
+La distance de levenshtein est une distance entre deux mots qui calcule le
+nombre d'étapes nécessaires pour passer d'un mot à un autre en utilisant
+seulement trois opérations:
+	- Supprimer
+	- Ajouter
+	- Remplacer
+
+Pour savoir comment calculer le distance de Levenshtein, regardez l'image
+donnée dans ce même dossier "levenshtein.png".
+
+Prototype:
+
+public static int Levenshtein(string a, string b);
